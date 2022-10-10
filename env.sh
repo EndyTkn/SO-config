@@ -1,0 +1,1 @@
+export MARIA_DB_PASSWORD="root"
