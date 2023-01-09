@@ -1,0 +1,17 @@
+clear lock
+keycode 66 = Mode_switch
+
+keysym z = z Z backslash backslash guillemotleft less guillemotleft less
+keysym x = x X bar bar guillemotright greater guillemotright greater
+
+keysym a = a A Left Left hstroke Hstroke
+keysym w = w W Up Up question ampersand
+keysym s = s S Down Down dead_hook dead_horn
+keysym d = d D Right Right lstroke Lstroke
+
+keysym dead_acute = dead_acute dead_grave Home Home acute grave acute grave
+keysym bracketleft = bracketleft braceleft End End ordfeminine dead_macron ordfeminine dead_macron
+keysym ccedilla = ccedilla Ccedilla Prior Prior dead_acute dead_doubleacute dead_acute dead_doubleacute
+keysym dead_tilde = dead_tilde dead_circumflex Next Next asciitilde asciicircum asciitilde asciicircum
+keysym period = period greater Delete Delete periodcentered division periodcentered division
+keysym p = p P Print Print thorn THORN thorn THORN
