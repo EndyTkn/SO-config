@@ -1,5 +1,5 @@
-clear lock
 keycode 66 = Mode_switch
+keycode 105 = Mode_switch
 
 keysym z = z Z backslash backslash guillemotleft less guillemotleft less
 keysym x = x X bar bar guillemotright greater guillemotright greater
@@ -15,3 +15,4 @@ keysym ccedilla = ccedilla Ccedilla Prior Prior dead_acute dead_doubleacute dead
 keysym dead_tilde = dead_tilde dead_circumflex Next Next asciitilde asciicircum asciitilde asciicircum
 keysym period = period greater Delete Delete periodcentered division periodcentered division
 keysym p = p P Print Print thorn THORN thorn THORN
+keysym m = m M Menu Menu mu mu mu mu m M mu mu
