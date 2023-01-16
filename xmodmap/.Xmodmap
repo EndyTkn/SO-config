@@ -1,5 +1,5 @@
 keycode 66 = Mode_switch
-keycode 105 = Mode_switch
+keycode 62 = Mode_switch
 
 keysym z = z Z backslash backslash guillemotleft less guillemotleft less
 keysym x = x X bar bar guillemotright greater guillemotright greater
