@@ -1,0 +1,1 @@
+﻿<^<!t:: run, "C:\Users\endyt\AppData\Local\Microsoft\WindowsApps\wt.exe", C:\filepath return ;
