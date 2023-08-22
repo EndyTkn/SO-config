@@ -1,16 +1,14 @@
 keycode 66 = Mode_switch
-keycode 62 = Mode_switch
+keycode 38 = a A KP_Left KP_Left ae AE
+keycode 39 = s S KP_Down KP_Down ssharp section
+keycode 40 = d D KP_Right KP_Right eth ETH
+keycode 25 = w W KP_Up KP_Up question question
 
-keysym z = z Z backslash backslash guillemotleft less guillemotleft less
-keysym x = x X bar bar guillemotright greater guillemotright greater
+keysym o = o O Home Home oslash Oslash
+keysym p = p P End End thorn THORN
+keysym j = j J Page_Up Page_Up dead_hook dead_horn
+keysym k = k K Page_Down Page_Down kra ampersand
+keysym m = m M Menu Menu mu mu
 
-keysym a = a A Left Left hstroke Hstroke
-keysym w = w W Up Up question ampersand
-keysym s = s S Down Down dead_hook dead_horn
-keysym d = d D Right Right lstroke Lstroke
-
-keysym o = o O Home Home oslash Oslash oslash Oslash o O oslash Oslash o O oslash Oslash
-keysym p = p P End End thorn THORN thorn THORN
-keysym k = k K Prior Prior kra ampersand kra ampersand k K kra ampersand k K kra ampersand
-keysym l = l L Next Next lstroke Lstroke lstroke Lstroke l L lstroke Lstroke l L lstroke Lstroke
-keysym m = m M Menu Menu mu mu mu mu m M mu mu
+keysym z = z Z backslash backslash guillemotleft less
+keysym x = x X bar bar guillemotright greater
